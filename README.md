@@ -1,2 +1,1 @@
-# macos
-tools
+MacOS & other tools
